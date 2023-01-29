@@ -4,7 +4,7 @@
 /* Custom properties */
 :root{
     --light-color: #fff;
-    --light-color-alt: #f8fcf8;
+    --light-color-alt: #fff;
     --primary-background-color: #787d8d;
     --secondary-background-color: #787d8d;
     --hover-light-color: var(--light-color);
